@@ -4,8 +4,8 @@
 <ul style="list-style-type:none;">
 <li>Leonardo Ferreira;</li>
 <li>.Net Developer;</li>
-<li>I’m currently learning: Angular and Azure</li>
-<li>Better then I was yesterday;</li>
+<li>I’m currently learning: Angular and Azure;</li>
+<li>Better then I was yesterday.</li>
 </ul>
 
 <hr>
