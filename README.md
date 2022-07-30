@@ -10,7 +10,7 @@
 
 <hr>
 
-## :hammer_and_wrench:	 Languages and Tools: <br>
+## :hammer_and_wrench:	 Tech Stack <br>
 <div class="row">
   <div class="column">
   <ul>
